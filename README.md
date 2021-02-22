@@ -1,5 +1,6 @@
 # FunFangFoundNews
 Introduction
+
 ❖Topic: We want to make a search engine that can specialize in search the keyword in each kind of news, which is called FunFangFoundNews. When users input the keywords, the system will go through a series of rating, which is measured by few topics we will discussed later. After that, offering the best search consequences that satisfied users desire.
 
 ❖What is the function of system and how to use it We provide search field to let users key in keyword, offering the best search consequences that users want the most. For example: if you enter the keyword "韓國瑜", then the searched results will orderly list based on the times that keyword appears in news.
